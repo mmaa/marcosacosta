@@ -1,6 +1,6 @@
-require 'rubygems'
 require 'sinatra'
+require 'haml'
 
 get '/' do
-  "Hello World!"
+  "Marcos Acosta"
 end
