@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'haml'
+require 'slim'
 
 get '/' do
   "Marcos Acosta"
