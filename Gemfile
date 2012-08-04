@@ -1,5 +1,4 @@
-source 'http://rubygems.org'
+source :rubygems
 
-gem 'sinatra', '~> 1.0.0'
-
-gem 'haml', '~> 3.0.21'
+gem 'sinatra'
+gem 'slim'
